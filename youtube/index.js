@@ -19,6 +19,7 @@
 // let result = sumZero(arr);
 // console.log(result);
 
+// some changes for demo
 
 const arr = [-5, -3, 0, 2, 4, 6, -4, 8];
 
