@@ -21,22 +21,22 @@
 
 // some changes for demo
 
-const arr = [-5, -3, 0, 2, 4, 6, -4, 8];
+// const arr = [-5, -3, 0, 2, 4, 6, -4, 8];
 
-function sumPairZero(inp) {
-  let left = 0;
-  let right = arr.length - 1;
+// function sumPairZero(inp) {
+//   let left = 0;
+//   let right = arr.length - 1;
 
-  while (left < right) {
-    sum = arr[left] + arr[right];
-    if (sum === 0) {
-      return [arr[left], arr[right]]
-    } else if (sum > 0) {
-      right--
-    } else {
-      left++
-    }
-  }
-}
-let result = sumPairZero(arr);
-console.log(result);
+//   while (left < right) {
+//     sum = arr[left] + arr[right];
+//     if (sum === 0) {
+//       return [arr[left], arr[right]]
+//     } else if (sum > 0) {
+//       right--
+//     } else {
+//       left++
+//     }
+//   }
+// }
+// let result = sumPairZero(arr);
+// console.log(result);

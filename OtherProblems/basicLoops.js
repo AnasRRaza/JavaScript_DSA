@@ -1,8 +1,7 @@
-
-// var person = { fname: "John", lname: "Doe", age: 25 }
+// var person = { fname: "John", lname: "Doe", age: 25 };
 
 // for (let x in person) {
-//   console.log(person);
+//   console.log(x);
 // }
 
 // var txt = 'JavaScript';
@@ -32,4 +31,3 @@
 // }
 
 // printTable(input);
-
