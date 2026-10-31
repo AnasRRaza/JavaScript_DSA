@@ -1,26 +1,55 @@
 # JavaScript DSA
 
-Practice problems for data structures and algorithms in JavaScript.
+Simple practice problems, one file per problem. Run with `node <folder>/<file>.js`.
 
-## Structure
+## strings/
 
-| Folder | Topic |
-| --- | --- |
-| `arrays/` | Array problems |
-| `strings/` | String manipulation |
-| `numbers/` | Math problems (factorial, fibonacci, primes) |
-| `sorting/` | Sorting algorithms |
-| `searching/` | Linear and binary search |
-| `recursion/` | Recursive problems |
-| `hash-maps/` | Hash map and set problems |
-| `linked-lists/` | Linked lists |
-| `stacks-queues/` | Stacks and queues |
-| `trees/` | Trees and BST |
-| `graphs/` | Graph traversal |
-| `dynamic-programming/` | DP problems |
+- [ ] Count vowels in a string
+- [ ] Count a specific character in a string
+- [ ] Check if two strings are anagrams
+- [ ] Find the first non-repeating character
+- [ ] Find the most repeated character
+- [ ] Remove duplicate characters from a string
+- [ ] Remove all spaces from a string
+- [ ] Count the words in a sentence
+- [ ] Find the shortest word
+- [ ] Reverse each word in a sentence (keep the word order)
+- [ ] Reverse the word order (keep each word as it is)
+- [ ] Convert a string to Title Case
+- [ ] Swap the case (upper to lower and lower to upper)
+- [ ] Check if a string contains only digits
+- [ ] Check if a string is a palindrome, ignoring spaces and case
 
-## Conventions
+## numbers/
 
-- One problem per file, named in kebab-case (e.g. `longest-word.js`).
-- Add a comment with the problem statement at the top and the Big-O at the bottom.
-- Run a file with `node <folder>/<file>.js`.
+- [ ] Check if a number is even or odd
+- [ ] Sum of digits of a number
+- [ ] Reverse a number
+- [ ] Check if a number is a palindrome
+- [ ] Check if a number is an Armstrong number
+- [ ] Find the GCD of two numbers
+- [ ] Find the LCM of two numbers
+- [ ] Print the multiplication table
+- [ ] Sum of the first N natural numbers
+- [ ] Power of a number (without `**`)
+- [ ] Print all primes up to N
+- [ ] Check if a number is a perfect square
+- [ ] FizzBuzz
+
+## arrays/
+
+- [ ] Find the smallest number
+- [ ] Find the second largest number
+- [ ] Sum of all elements
+- [ ] Average of an array
+- [ ] Count even and odd numbers
+- [ ] Remove duplicates
+- [ ] Check if an array is sorted
+- [ ] Find the index of an element (without `indexOf`)
+- [ ] Merge two arrays
+- [ ] Find common elements in two arrays
+- [ ] Move all zeros to the end
+- [ ] Rotate an array by K positions
+- [ ] Flatten a nested array
+- [ ] Find the missing number in 1 to N
+- [ ] Find the frequency of each element
